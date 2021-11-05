@@ -1,0 +1,81 @@
+{
+    "users":[
+        {
+            "nama0":"PROFILE",
+        
+            "nama1":"Name",
+            "alamat1":"Calvin Sheeran",
+
+            "nama2":"DATE OF BIRTH",
+            "alamat2":"12 December 1988",
+
+            "nama3":"ADDRESS",
+            "alamat3":"Hope of life street 108 Apartment Future 12th floor South Jakarta Indonesia",
+        
+            "nama4":"WEBSITE",
+            "alamat4":"calvinsheeran.com",
+        
+            "nama5":"AWARDS",
+        
+            "nama6":"CREATIVE AWARDS 2012",
+            "alamat6":"Openminded.org",
+        
+            "nama7":"INTERFACE DESIGN 2013",
+            "alamat7":"Collideas.com",
+        
+            "nama8":"CONTACT",
+        
+            "nama9":"HOME NUMBER &#9743;",
+            "alamat9":"calvinsheeran.com",
+        
+            "nama10":"PHONE NUMBER &#128222;",
+            "alamat10":"0821 945 123 456",
+        
+            "nama11":"EMAIL &#9993;",
+            "alamat11":"calvinsheeran.com",
+        
+            "nama12":"SOCIAL",
+        
+            "nama13":"TWITTER &#116;",
+            "alamat13":"@Calvin_sheeran",
+        
+            "nama14":"FACEBOOK &#102;",
+            "alamat14":"Calvin_sheeran"
+        },
+        {
+            "par1":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim amet repudiandae velit ducimus officiis praesentium laudantium rem quasi fugiat! Accusamus recusandae doloremque hic quasi deserunt harum nostrum, laudantium praesentium mollitia!",
+        
+            "par2":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae, eius delectus ullam nobis illum quaerat necessitatibus illo temporibus provident et non quia facilis neque tenetur tempore modi laboriosam doloremque officiis!",
+        
+            "par3":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores minima repellendus ex fuga sunt delectus commodi quam, quod eveniet amet illo facere hic quaerat odio ab quo vitae explicabo autem."
+        },
+        {
+            "exp1":"Feb 2011-Jun 2014",
+        
+            "exp2":"Jakarta, Indonesia.",
+        
+            "exp3":"Feb 2011-Jun 2014",
+        
+            "exp4":"Jakarta, Indonesia.",
+        
+            "exp5":"Feb 2011-Jun 2014",
+        
+            "exp6":"Jakarta, Indonesia."
+        },
+        {
+            "sky1":"Microsoft Windows",
+            "sky2":"Windows",
+            "sky3":"Mac Osx",
+            "sky4":"Data Handing",
+            "sky5":"Record Keeping",
+            "sky6":"Web Skills",
+
+            "sea1":"Organisation",
+            "sea2":"Communication",
+            "sea3":"Time Keeping",
+            "sea4":"Team Player",
+            "sea5":"Commitment",
+            "sea6":"Multitasking"
+        }
+    ]
+  }
